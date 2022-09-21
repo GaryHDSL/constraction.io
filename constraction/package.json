@@ -1,0 +1,8 @@
+{
+  "name": "constraction",
+  "version": "0.0.0",
+  "devDependencies": {
+    "wrangler": "2.1.3"
+  },
+  "private": true
+}
